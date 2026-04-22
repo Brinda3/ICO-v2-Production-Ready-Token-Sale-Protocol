@@ -108,4 +108,10 @@ Stablecoin support (USDT / USDC)
 DAO-controlled sale parameters
 Upgradeable proxy pattern (optional)
 
+---
+
+## Author
+### Brinda Parthiban
+Smart Contract Engineer | DeFi Systems | Tokenization
+
 
