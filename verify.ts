@@ -3,8 +3,8 @@ import { run } from "hardhat";
 async function main() {
   try {
 
-const NAME = "KooDoo";
-const SYMBOL = "KDO";
+const NAME = "ICO-V2";
+const SYMBOL = "ICO";
 const TOTAL_SUPPLY = 48000000n;
 const ADMIN = "0x5FcC2fA3a76599f6e672da59CBDC0a37859CD732";
 const SIGNER = "0x5FcC2fA3a76599f6e672da59CBDC0a37859CD732";
